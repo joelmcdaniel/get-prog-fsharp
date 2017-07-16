@@ -1,0 +1,2 @@
+Words: my string
+ Number of words: 2
