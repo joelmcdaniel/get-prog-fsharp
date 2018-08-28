@@ -1,2 +1,2 @@
 # get-prog-fsharp
-Try This exercises for Get Programming with F# book
+Exercises/samples from Get Programming with F# book
