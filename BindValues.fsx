@@ -10,5 +10,3 @@ let foo() =
     let x = "test"
     let x = 50.0
     x + 200.0
-
-
